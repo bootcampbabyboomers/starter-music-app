@@ -1,5 +1,7 @@
 # :musical_note: Starter Music App
 
+![alt text](/src/assets/images/mockup.png "Music App Mockup")
+
 ### In this project, we are using:
 :ballot_box_with_check: HTML :ballot_box_with_check: Sass :ballot_box_with_check: Angular :ballot_box_with_check: Grunt
 
